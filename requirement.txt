@@ -1,0 +1,16 @@
+langchain
+faiss-cpu
+sentence-transformers
+openpyxl
+pypdf
+pandas
+tqdm
+streamlit
+pandas
+pdfplumber
+pytesseract
+pdf2image
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
