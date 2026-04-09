@@ -1,0 +1,111 @@
+{
+    "1775744311.22965": {
+        "title": "what are the routes of",
+        "messages": [
+            {
+                "role": "user",
+                "content": "what are the routes of pune metro"
+            },
+            {
+                "role": "assistant",
+                "content": "The Pune Metro operates on two main routes:\n\n1. **PCMC to District Court** - This route covers a length of approximately 17.4 km and has 14 stations, including both elevated and underground sections.\n2. **District Court to Swargate** - The second route is an operational corridor that extends for about 16.589 km with 14 stations (9 elevated and 5 underground)."
+            }
+        ]
+    },
+    "1775744590.935831": {
+        "title": "New Chat",
+        "messages": []
+    },
+    "1775745284.027168": {
+        "title": "Who prepared the Updation/Revision of",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Who prepared the Updation/Revision of the Comprehensive Mobility Plan (CMP) for the Pune Metropolitan Region in October 2024?"
+            },
+            {
+                "role": "assistant",
+                "content": "Maharashtra Metro Rail Corporation Limited, Assystem India Limited (formerly known as L&T Infrastructure Engineering Limited), and other relevant entities were involved in preparing the Updation/Revision of the Comprehensive Mobility Plan (CMP) for the Pune Metropolitan Region in October 2024."
+            },
+            {
+                "role": "user",
+                "content": "According to the document, what is the estimated population of the Pune Municipal Corporation (PMC) area in 2024?"
+            },
+            {
+                "role": "assistant",
+                "content": "The estimated population of the PMC area in 2024 is 46,27,888 lakhs."
+            },
+            {
+                "role": "user",
+                "content": "Which software tool was used for the validation process of Travel Demand Modelling to optimize the trip matrices?"
+            },
+            {
+                "role": "assistant",
+                "content": "The software tool used for the validation process of Travel Demand Modelling to optimize the trip matrices is CUBE ANALYST."
+            },
+            {
+                "role": "user",
+                "content": "Among the 57 surveyed junctions, which junction observed the highest peak hour Passenger Car Units (PCUs), and what was the volume?"
+            },
+            {
+                "role": "assistant",
+                "content": "The highest peak hour PCUs is observed at Pune University Junction with a volume of 30,143 PCUs."
+            }
+        ]
+    },
+    "1775745633.379357": {
+        "title": "Are commercial heavy vehicles allowed",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are commercial heavy vehicles allowed to travel from Bhakti Shakti Chowk to Triveninagar Chowk?"
+            },
+            {
+                "role": "assistant",
+                "content": "Entry to and from Bhakti Shakti Chowk to Triveninagar Chowk is closed for heavy vehicles."
+            },
+            {
+                "role": "user",
+                "content": ". What is the estimated daily ridership and total estimated cost (at November 2015 prices) for Corridor 1 and Corridor 2 combined?"
+            },
+            {
+                "role": "assistant",
+                "content": "I cannot find this information in the provided documents."
+            }
+        ]
+    },
+    "1775746344.716045": {
+        "title": "New Chat",
+        "messages": []
+    },
+    "1775746827.622879": {
+        "title": "what are the metro lines",
+        "messages": [
+            {
+                "role": "user",
+                "content": "what are the metro lines"
+            }
+        ]
+    },
+    "1775747222.310916": {
+        "title": "when was pune metro established",
+        "messages": [
+            {
+                "role": "user",
+                "content": "when was pune metro established "
+            },
+            {
+                "role": "assistant",
+                "content": "Pune Metro was established in 2018 through a Special Purpose Vehicle (SPV) with equal shares from Maharashtra Rail Infrastructure Development Corporation Ltd (MRIDC)."
+            }
+        ]
+    },
+    "1775747550.947618": {
+        "title": "New Chat",
+        "messages": []
+    },
+    "1775747625.700281": {
+        "title": "New Chat",
+        "messages": []
+    }
+}
